@@ -1,0 +1,6 @@
+requests
+python-dotenv
+gTTS
+pyserial
+RPi.GPIO
+flask
