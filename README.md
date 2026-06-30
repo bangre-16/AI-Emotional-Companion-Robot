@@ -706,14 +706,23 @@ This repository contains:
 
 ---
 
-# 👨‍💻 Authors
+# 🤝 Contributors
 
-Darshan N S, Lohith Arasu, N Likhtih, Sai Sidharth Pradhan
+This project was developed as a collaborative academic project.
 
+- Darshan N S  
+  GitHub: https://github.com/bangre-16
+
+- Lohith Arasu
+
+- N Likhith  
+  GitHub: https://github.com/likipersonal07-lgtm
+
+- Sai Sidharth Pradhan
+  GitHub: https://github.com/saisidharth4321-rgb
+  
 Department of Electrical and Electronics Engineering
-
 Dayananda Sagar Academy of Technology and Management
-
 Bengaluru, Karnataka, India
 
 ---
