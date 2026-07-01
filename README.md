@@ -69,7 +69,7 @@ This project demonstrates the integration of Edge AI, Robotics, Embedded Systems
 
 ## 📱 Caregiver Notification
 
-- Twilio SMS integration
+- Twillo SMS integration
 - Automatic alert generation
 - Missed medication notification
 - Remote caregiver communication
